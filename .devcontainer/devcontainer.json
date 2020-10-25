@@ -1,0 +1,8 @@
+{
+  "name": "Elixir",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "mjmcloug.vscode-elixir",
+    "jakebecker.elixir-ls"
+  ]
+}
